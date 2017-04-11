@@ -4,8 +4,8 @@ require "neography"
 require "active_support/all"
 
 NEO4J_USER = "neo4j"
-NEO4J_PASSWORD = "pass"
-SWEET_URL = "https://raw.githubusercontent.com/ESIPFed/sweet/master/sweet2.3/sweetAll.owl"
+NEO4J_PASSWORD = "Sarahp00"
+SWEET_URL = "https://raw.githubusercontent.com/ESIPFed/sweet/master/2.3/sweetAll.owl"
 
 class SweetParser
 
