@@ -28,7 +28,7 @@ Before running the program, make sure the following properties are set in **pars
 # Set the following variables in parser.rb and let the magic happen
 NEO4J_USER = "${your.username}"
 NEO4J_PASSWORD = "${your.password}"
-SWEET_URL = "https://raw.githubusercontent.com/ESIPFed/sweet/master/sweet2.3/sweetAll.owl"
+SWEET_URL = "https://raw.githubusercontent.com/ESIPFed/sweet/master/2.3/sweetAll.owl"
 ```
 
 ![Alt text](graph.png?raw=true "Sweet Neo4J")
